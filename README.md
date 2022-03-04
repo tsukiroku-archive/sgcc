@@ -1,5 +1,3 @@
-> **코이츠! gcc 직업 입력하기 귀찮지? 이건 너를 위한거야www**
-
 <img src="https://i.imgur.com/VUTeCkC.jpg" alt="drawing" style="width:200px;"/>
 
 ```sh
