@@ -3,7 +3,7 @@
 /**
  * 
  * @file main.c
- * @author rwdv
+ * @author tsukiroku
  * @date 2022-02-20
  * 
  * @copyright Copyright 2022. rwdv
